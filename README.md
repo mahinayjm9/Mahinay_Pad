@@ -4,9 +4,9 @@
 
 ## Projects
 
-- [Project 1](https://github.com/john-doe/project1](https://github.com/mahinayjm9/Mahinay_SIS.git))
-- [Project 2](https://github.com/john-doe/project2](https://github.com/mahinayjm9/Mahinay_Login-App.git))
-- [Project 3](https://github.com/mahinayjm9/Mahinay_Pad.git)
+- [Project 1-Student Information System](https://github.com/john-doe/project1](https://github.com/mahinayjm9/Mahinay_SIS.git))
+- [Project 2-Login App](https://github.com/mahinayjm9/Mahinay_Login-App.git))
+- [Project 3-Notepad](https://github.com/mahinayjm9/Mahinay_Pad.git)
 
 ## Connect with Me
 
