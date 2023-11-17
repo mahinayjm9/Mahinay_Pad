@@ -10,7 +10,7 @@
 
 ## Connect with Me
 
-- [Discord](prideful6969)
+- [Discord-prideful6969]
 - [Facebook](https://www.facebook.com/aliasjm14)
-- [Phone Number](09324295743)
-- [Email](mahinayjm9@gmail.com)
+- [Phone Number-09324295743]
+- [Email-mahinayjm9@gmail.com]
