@@ -1,0 +1,10 @@
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\bin\Debug\Mahinay_Pad.exe.config
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\bin\Debug\Mahinay_Pad.exe
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\bin\Debug\Mahinay_Pad.pdb
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.csproj.AssemblyReference.cache
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.Form1.resources
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.Properties.Resources.resources
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.csproj.GenerateResource.cache
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.csproj.CoreCompileInputs.cache
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.exe
+C:\Users\mahin\source\repos\Mahinay_Pad\Mahinay_Pad\obj\Debug\Mahinay_Pad.pdb
